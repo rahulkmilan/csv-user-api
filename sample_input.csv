@@ -1,0 +1,11 @@
+name,email,age
+Rahul,rahul@example.com,25
+Anu,anu@example.com,30
+John,john@example.com,45
+InvalidAge,invalidage@example.com,150
+InvalidEmail,invalidemail.com,28
+EmptyName,,22
+Duplicate,rahul@example.com,35
+Child,kid@example.com,5
+Senior,old@example.com,120
+NegativeAge,negative@example.com,-3
