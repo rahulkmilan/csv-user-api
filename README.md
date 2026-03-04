@@ -68,7 +68,7 @@ csv_user_api/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd csv_user_api
 ````
 
