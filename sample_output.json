@@ -1,0 +1,42 @@
+{
+    "total_saved": 5,
+    "total_rejected": 5,
+    "errors": [
+        {
+            "row": 4,
+            "error": {
+                "age": [
+                    "Age must be between 0 and 120."
+                ]
+            }
+        },
+        {
+            "row": 5,
+            "error": {
+                "email": [
+                    "Enter a valid email address."
+                ]
+            }
+        },
+        {
+            "row": 6,
+            "error": {
+                "email": [
+                    "This field may not be blank."
+                ]
+            }
+        },
+        {
+            "row": 7,
+            "error": "Duplicate email skipped."
+        },
+        {
+            "row": 10,
+            "error": {
+                "age": [
+                    "Age must be between 0 and 120."
+                ]
+            }
+        }
+    ]
+}
