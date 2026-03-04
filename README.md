@@ -126,6 +126,8 @@ http://127.0.0.1:8000/
 ```
 POST /api/upload/
 ```
+<img width="1858" height="964" alt="Screenshot 2026-03-05 004832" src="https://github.com/user-attachments/assets/6c610564-f1ed-45c0-8221-450175652adc" />
+
 
 ### Request Type
 
@@ -146,6 +148,7 @@ name,email,age
 Rahul,rahul@example.com,25
 Anu,anu@example.com,30
 ```
+<img width="1848" height="964" alt="Screenshot 2026-03-05 004856" src="https://github.com/user-attachments/assets/4fd11e9e-0350-4aa3-90f1-a8d313ea4f56" />
 
 ---
 
@@ -165,6 +168,8 @@ Anu,anu@example.com,30
   ]
 }
 ```
+<img width="1158" height="904" alt="Screenshot 2026-03-05 005908" src="https://github.com/user-attachments/assets/f47704ca-b51a-4da0-8e2a-6d9f33432afe" />
+
 
 ---
 
@@ -173,6 +178,8 @@ Anu,anu@example.com,30
 ```bash
 python manage.py test
 ```
+<img width="757" height="237" alt="unit_test_execution png" src="https://github.com/user-attachments/assets/13c7b74e-575a-4de9-b29d-f5209ba89a00" />
+
 
 ---
 
